@@ -1,6 +1,6 @@
 ### Marcelino Garcia
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/marcelino-garcia-2a1309219/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelino.garcia@novaandradina.org)](mailto:marcelino.garcia@novaandradina.org)
+[![Linkedin Badge](https://img.shields.io/badge/-Marcelino%20Garcia-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelino-garcia-2a1309219/)](https://www.linkedin.com/in/marcelino-garcia-2a1309219/) 
+[![Gmail Badge](https://img.shields.io/badge/-marcelino.garcia@novaandradina.org-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelino.garcia@novaandradina.org)](mailto:marcelino.garcia@novaandradina.org)
 
 
 
