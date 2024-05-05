@@ -10,7 +10,7 @@ Throughout my career, I've demonstrated proficiency across a wide spectrum of te
 - **Backend Development:** Node.js, Express.js
 - **Languages:** JavaScript (ES6+), TypeScript
 - **Database Systems:** MongoDB, MySQL, PostgreSQL
-- **DevOps & Cloud:** Docker, Kubernetes, AWS, Azure
+- **DevOps & Cloud:** Docker, Heroku, Render and Vercel
 
 ## Professional Background
 
